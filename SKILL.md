@@ -1,5 +1,5 @@
 ---
-name: ops-lcm-fix
+name: ops-lcm-setup
 description: LCM (Lossless-Claw) 完整指南：安裝、配置、混搭模型省成本、假陽性 auth error 修復、MiniMax apiKey env-marker 問題。新機器部署 / LCM 故障排查 / 壓縮不觸發時載入。
 ---
 
